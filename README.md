@@ -25,6 +25,7 @@ Después de la segmentación, se aplica un proceso de vectorización para obtene
 
 #### Imagen de Resultados de la Vectorización
 ![Imagen de Vectorización](https://github.com/JHONATAN9A/Imagenes-Satelitales/blob/main/img_b.png)
+![Imagen de Vectorización](https://github.com/JHONATAN9A/Imagenes-Satelitales/blob/main/img_d.png)
 
 ### Evaluación del Algoritmo 📊
 
